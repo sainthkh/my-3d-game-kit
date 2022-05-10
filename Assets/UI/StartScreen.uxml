@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement style="background-image: url(&apos;project://database/Assets/Art/Sprites/UI/Menu/StartMenu.png?fileID=1512652733&amp;guid=ade27ea4a5fc5ec468338a20230d2318&amp;type=3#StartMenu_0&apos;); width: 1115px; height: 1108px;" />
+    </ui:VisualElement>
+</ui:UXML>
